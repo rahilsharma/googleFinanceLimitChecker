@@ -1,2 +1,2 @@
 # googleFinanceLimitChecker
-Finding limit / sec googleFinance
+Sample script to find limit for google finance api before it blocks.
